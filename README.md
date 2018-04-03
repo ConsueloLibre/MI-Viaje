@@ -2,6 +2,8 @@
 
 ![mi_viaje](https://user-images.githubusercontent.com/32283943/38067505-52c52900-32e3-11e8-9ce2-e8093209c00c.png)
 
+## desarrollado para
+[Laboratoria Chile](https://www.figma.com/proto/Hf23N8du3Ah4vUKeYHvto9CV/Miviaje?scaling=contain&node-id=57%3A6)
 ## El reto. 
 Se nos ha entregado la misión de mejorar la experiencia de usuarios que utilizan el servicio de buses. 
 Dada la complejidad de comenzar una investigación respecto a un tema del cual poco sabemos, además sumarle el hecho de ser principiantes tomamos la desición de partir con lo siguiente.
